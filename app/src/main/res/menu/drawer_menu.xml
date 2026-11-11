@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_dashboard" android:icon="@drawable/ic_dashboard" android:title="Dashboard" />
+        <item android:id="@+id/nav_voluntarios" android:icon="@drawable/ic_people" android:title="Voluntários" />
+        <item android:id="@+id/nav_atividades" android:icon="@drawable/ic_tasks" android:title="Atividades" />
+        <item android:id="@+id/nav_colheitas" android:icon="@drawable/ic_leaf" android:title="Colheitas" />
+        <item android:id="@+id/nav_relatorios" android:icon="@drawable/ic_chart" android:title="Relatórios" />
+        <item android:id="@+id/nav_colhedor" android:icon="@drawable/ic_person" android:title="Tela do Colhedor" />
+    </group>
+    <item android:id="@+id/nav_sair" android:icon="@drawable/ic_logout" android:title="Sair" />
+</menu>
