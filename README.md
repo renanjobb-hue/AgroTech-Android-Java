@@ -26,15 +26,6 @@ A ideia nasceu no semestre anterior, na disciplina da Professora Ângela, a part
 - Vê as atividades que ainda estão abertas.
 - Registra quanto colheu no dia.
 
-## 📱 Telas
-
-| Login | Dashboard | Voluntários |
-|:---:|:---:|:---:|
-| ![Login](docs/login.png) | ![Dashboard](docs/dashboard.png) | ![Voluntários](docs/voluntarios.png) |
-
-| Atividades | Colheitas | Relatórios |
-|:---:|:---:|:---:|
-| ![Atividades](docs/atividades.png) | ![Colheitas](docs/colheitas.png) | ![Relatórios](docs/relatorios.png) |
 
 ## 🛠️ Tecnologias
 
